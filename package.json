@@ -1,0 +1,19 @@
+{
+  "name": "movie-list-solo",
+  "version": "1.0.0",
+  "description": "Movie-List SOLO WORK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpars88/Movie_List_Solo.git"
+  },
+  "author": "Dpars88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpars88/Movie_List_Solo/issues"
+  },
+  "homepage": "https://github.com/dpars88/Movie_List_Solo#readme"
+}
